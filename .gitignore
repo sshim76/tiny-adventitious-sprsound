@@ -1,0 +1,14 @@
+# SPRSound audio and feature cache (download separately; see README)
+data/
+
+# Generated outputs (rebuilt by make_tables.py and make_figures.py)
+tables/
+figures/
+results/figure6_example.txt
+
+# Python and OS clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
