@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and the paper once it is published."
+title: "Tiny adventitious lung-sound detector on SPRSound: code, splits and trained models"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/sshim76/tiny-adventitious-sprsound"
+keywords:
+  - respiratory sounds
+  - adventitious sounds
+  - tinyML
+  - knowledge distillation
+  - quantization
+  - SPRSound
+authors:
+  - family-names: Shim
+    given-names: Seong-O
+    affiliation: "University of Jeddah, Jeddah, Saudi Arabia"
+  - family-names: Albaqami
+    given-names: Hezam
+    affiliation: "University of Jeddah, Jeddah, Saudi Arabia"
+  - family-names: Habibullah
+    given-names: Safa
+    affiliation: "University of Jeddah, Jeddah, Saudi Arabia"
+  - family-names: Hussain
+    given-names: Lal
+    affiliation: "The University of Azad Jammu and Kashmir, Muzaffarabad, Pakistan"

@@ -1,0 +1,11 @@
+# Versions used for the paper (Python 3.13, CPU). Nearby versions are likely to work.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+torch==2.15.0
+librosa==1.0.0
+soundfile==0.14.0
+onnx==1.23.2
+onnxruntime==1.29.0
+matplotlib==3.11.2
