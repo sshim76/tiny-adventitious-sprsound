@@ -1,0 +1,17 @@
+models: ['acoustic_lr', 'tiny', 'tiny_kd', 'small', 'medium', 'tiny_int8', 'tiny_kd_int8', 'small_int8']
+val cas done
+val das done
+ext2024 cas done
+ext2024 das done
+ext2025 cas done
+ext2025 das done
+noise tiny 0
+noise tiny 1
+noise tiny 2
+noise tiny_kd 0
+noise tiny_kd 1
+noise tiny_kd 2
+noise small 0
+noise small 1
+noise small 2
+analysis done

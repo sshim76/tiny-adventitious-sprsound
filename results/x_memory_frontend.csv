@@ -1,0 +1,5 @@
+item,peak_act_elements,peak_act_int8_kb,peak_act_fp32_kb,frontend_ms_per_window,frontend_mflops_per_window,frontend_mflops_per_second
+tiny,256000.0,250.0,1000.0,,,
+small,358400.0,350.0,1400.0,,,
+medium,409600.0,400.0,1600.0,,,
+frontend,,,,1.314384499892185,4.4828,1.1207

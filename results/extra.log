@@ -1,0 +1,63 @@
+=== stage cv2025
+cv2025 seed 0 fold 0 done (1070 train / 239 test recordings)
+cv2025 seed 0 fold 1 done (980 train / 329 test recordings)
+cv2025 seed 0 fold 2 done (1084 train / 225 test recordings)
+cv2025 seed 0 fold 3 done (1055 train / 254 test recordings)
+cv2025 seed 0 fold 4 done (1047 train / 262 test recordings)
+cv2025 seed 1 fold 0 done (1070 train / 239 test recordings)
+cv2025 seed 1 fold 1 done (980 train / 329 test recordings)
+cv2025 seed 1 fold 2 done (1084 train / 225 test recordings)
+cv2025 seed 1 fold 3 done (1055 train / 254 test recordings)
+cv2025 seed 1 fold 4 done (1047 train / 262 test recordings)
+cv2025 seed 2 fold 0 done (1070 train / 239 test recordings)
+cv2025 seed 2 fold 1 done (980 train / 329 test recordings)
+=== stage cv2025
+cv2025 seed 2 fold 2 done (1084 train / 225 test recordings)
+cv2025 seed 2 fold 3 done (1055 train / 254 test recordings)
+cv2025 seed 2 fold 4 done (1047 train / 262 test recordings)
+=== stage cv2025 finished in 4.8 min
+=== stage roll
+  tiny seed0 ep5 loss 0.2526 88s
+  tiny seed0 ep10 loss 0.2270 172s
+  tiny seed0 ep15 loss 0.2224 257s
+  tiny seed0 ep20 loss 0.2201 684s
+tiny_roll seed 0 done
+  tiny seed1 ep5 loss 0.2532 86s
+  tiny seed1 ep10 loss 0.2317 180s
+  tiny seed1 ep15 loss 0.2199 271s
+  tiny seed1 ep20 loss 0.2180 365s
+tiny_roll seed 1 done
+  tiny seed2 ep5 loss 0.2456 93s
+  tiny seed2 ep10 loss 0.2288 184s
+  tiny seed2 ep15 loss 0.2174 273s
+  tiny seed2 ep20 loss 0.2128 368s
+tiny_roll seed 2 done
+=== stage roll finished in 25.0 min
+=== stage adapt
+adapt seed 0 k 5 done
+adapt seed 0 k 10 done
+adapt seed 0 k 20 done
+adapt seed 0 k 40 done
+adapt seed 1 k 5 done
+adapt seed 1 k 10 done
+adapt seed 1 k 20 done
+adapt seed 1 k 40 done
+adapt seed 2 k 5 done
+=== stage adapt
+adapt seed 2 k 5 done
+adapt seed 2 k 10 done
+adapt seed 2 k 20 done
+adapt seed 2 k 40 done
+=== stage adapt finished in 24.4 min
+=== stage kdabl
+kd_T1 seed 0 done
+kd_T1 seed 1 done
+kd_T1 seed 2 done
+kd_T4 seed 0 done
+=== stage kdabl
+kd_T4 seed 1 done
+kd_T4 seed 2 done
+kd_w1 seed 0 done
+kd_w1 seed 1 done
+kd_w1 seed 2 done
+=== stage kdabl finished in 24.6 min

@@ -1,0 +1,80 @@
+ext2024: 1704 recordings, 334 patients, CAS 0.039, DAS 0.028
+ext2025: 1309 recordings, 232 patients, CAS 0.117, DAS 0.459
+train: 2751 recordings, 302 patients, CAS 0.153, DAS 0.190
+val: 573 recordings, 75 patients, CAS 0.175, DAS 0.192
+  tiny seed0 ep5 loss 0.3265 49s
+  tiny seed0 ep10 loss 0.3043 100s
+  tiny seed0 ep15 loss 0.2804 150s
+  tiny seed0 ep20 loss 0.3010 205s
+tiny seed 0 done in 249s
+  tiny seed1 ep5 loss 0.3260 53s
+  tiny seed1 ep10 loss 0.3089 113s
+  tiny seed1 ep15 loss 0.3041 170s
+  tiny seed1 ep20 loss 0.2895 224s
+tiny seed 1 done in 269s
+  tiny seed2 ep5 loss 0.3195 68s
+  tiny seed2 ep10 loss 0.3027 122s
+  tiny seed2 ep15 loss 0.2885 175s
+  tiny seed2 ep20 loss 0.2814 226s
+tiny seed 2 done in 268s
+  medium seed0 ep5 loss 0.3209 220s
+  medium seed0 ep10 loss 0.2875 448s
+  medium seed0 ep15 loss 0.2665 662s
+  medium seed0 ep20 loss 0.2507 874s
+medium seed 0 done in 1031s
+  medium seed1 ep5 loss 0.3186 214s
+  medium seed1 ep10 loss 0.2893 444s
+  medium seed1 ep15 loss 0.2606 662s
+  medium seed1 ep20 loss 0.2373 875s
+medium seed 1 done in 1037s
+  medium seed2 ep5 loss 0.3242 230s
+  medium seed2 ep10 loss 0.3024 447s
+  medium seed2 ep15 loss 0.2688 648s
+  medium seed2 ep20 loss 0.2507 855s
+medium seed 2 done in 1012s
+  tiny-kd seed0 ep5 loss 1.1837 47s
+  tiny-kd seed0 ep10 loss 1.1457 95s
+  tiny-kd seed0 ep15 loss 1.1298 146s
+  tiny-kd seed0 ep20 loss 1.1406 195s
+tiny_kd seed 0 done in 242s
+  tiny-kd seed1 ep5 loss 1.1876 49s
+  tiny-kd seed1 ep10 loss 1.1503 97s
+  tiny-kd seed1 ep15 loss 1.1404 145s
+  tiny-kd seed1 ep20 loss 1.1321 193s
+tiny_kd seed 1 done in 235s
+  tiny-kd seed2 ep5 loss 1.1702 49s
+  tiny-kd seed2 ep10 loss 1.1433 99s
+  tiny-kd seed2 ep15 loss 1.1305 154s
+  tiny-kd seed2 ep20 loss 1.1211 208s
+tiny_kd seed 2 done in 255s
+  small seed0 ep5 loss 0.3255 82s
+  small seed0 ep10 loss 0.2816 164s
+  small seed0 ep15 loss 0.2830 240s
+  small seed0 ep20 loss 0.2671 315s
+small seed 0 done in 384s
+  small seed1 ep5 loss 0.3179 82s
+  small seed1 ep10 loss 0.2962 164s
+  small seed1 ep15 loss 0.2805 240s
+  small seed1 ep20 loss 0.2619 318s
+small seed 1 done in 380s
+  small seed2 ep5 loss 0.3208 74s
+  small seed2 ep10 loss 0.2971 146s
+  small seed2 ep15 loss 0.2866 221s
+  small seed2 ep20 loss 0.2726 295s
+small seed 2 done in 356s
+all done
+  tiny-kd seed0 ep5 loss 1.2096 59s
+  tiny-kd seed0 ep10 loss 1.1693 115s
+  tiny-kd seed0 ep15 loss 1.1636 173s
+  tiny-kd seed0 ep20 loss 1.1512 227s
+tiny_kd_na seed 0 done in 269s
+  tiny-kd seed1 ep5 loss 1.2262 59s
+  tiny-kd seed1 ep10 loss 1.1692 119s
+  tiny-kd seed1 ep15 loss 1.1571 173s
+  tiny-kd seed1 ep20 loss 1.1560 232s
+tiny_kd_na seed 1 done in 277s
+  tiny-kd seed2 ep5 loss 1.1985 52s
+  tiny-kd seed2 ep10 loss 1.1629 105s
+  tiny-kd seed2 ep15 loss 1.1512 154s
+  tiny-kd seed2 ep20 loss 1.1498 206s
+tiny_kd_na seed 2 done in 244s

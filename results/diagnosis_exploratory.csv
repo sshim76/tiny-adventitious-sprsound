@@ -1,0 +1,21 @@
+part,comparison,feature,n_pos,n_neg,auroc
+val,pneumonia vs control,das,49,6,0.5918367346938775
+val,pneumonia vs control,p_das,49,6,0.6020408163265306
+val,pneumonia vs control,cas,49,6,0.3452380952380953
+val,pneumonia vs control,p_cas,49,6,0.45238095238095233
+val,pneumonia vs all other diagnoses,das,49,26,0.5023547880690739
+val,pneumonia vs all other diagnoses,p_das,49,26,0.48508634222919933
+val,pneumonia vs all other diagnoses,cas,49,26,0.3575353218210361
+val,pneumonia vs all other diagnoses,p_cas,49,26,0.42621664050235475
+ext2024,pneumonia vs control,das,179,39,0.5353817504655494
+ext2024,pneumonia vs control,p_das,179,39,0.6152413694313137
+ext2024,pneumonia vs control,cas,179,39,0.4833118464403381
+ext2024,pneumonia vs control,p_cas,179,39,0.4861767655063745
+ext2024,pneumonia vs all other diagnoses,das,179,144,0.5144902234636871
+ext2024,pneumonia vs all other diagnoses,p_das,179,144,0.574487895716946
+ext2024,pneumonia vs all other diagnoses,cas,179,144,0.44264044072004965
+ext2024,pneumonia vs all other diagnoses,p_cas,179,144,0.4285769708255742
+ext2024,severe vs non-severe pneumonia,das,16,163,0.44785276073619634
+ext2024,severe vs non-severe pneumonia,p_das,16,163,0.6192484662576687
+ext2024,severe vs non-severe pneumonia,cas,16,163,0.4754601226993865
+ext2024,severe vs non-severe pneumonia,p_cas,16,163,0.47929447852760737

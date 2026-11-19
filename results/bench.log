@@ -1,0 +1,24 @@
+       events   adv  patients
+part                         
+fit      5281  1182       194
+gc23     3124   666        87
+hold     1375   315        49
+inter    1429   389        41
+intra    1004   316       160
+bench tiny seed 0 done in 316s
+bench tiny seed 1 done in 664s
+bench tiny seed 2 done in 260s
+       events   adv  patients
+part                         
+fit      5281  1182       194
+gc23     3124   666        87
+hold     1375   315        49
+inter    1429   389        41
+intra    1004   316       160
+bench medium seed 0 done in 922s
+bench medium seed 1 done in 864s
+bench medium seed 2 done in 821s
+bench tiny_kd seed 0 done in 185s
+bench tiny_kd seed 1 done in 191s
+bench tiny_kd seed 2 done in 200s
+benchmark done

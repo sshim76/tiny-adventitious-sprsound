@@ -1,0 +1,18 @@
+,train,val,ext2024,ext2025
+"Recordings, n","2,751",573,"1,704","1,309"
+"Patients, n",302,75,334,232
+"Recordings per patient, median (IQR)",7 (4–11),7 (4–10),4 (2–7),4 (2–7)
+"Age, years, median (IQR)",4.4 (2.8–6.9),4.2 (2.8–7.3),5.2 (3.5–7.6),4.8 (3.5–7.0)
+"Female patients, %",50,52,48,45
+"Audio, h",8.6,1.8,5.9,3.9
+"Recordings with CAS, n (%)",420 (15.3),100 (17.5),67 (3.9),153 (11.7)
+"Recordings with DAS, n (%)",522 (19.0),110 (19.2),48 (2.8),601 (45.9)
+"Annotated events, n","10,096","2,117","7,659","4,706"
+"Events per recording, median",3,3,4,4
+"Event duration, s, median",1.32,1.25,2.06,1.92
+"Fine crackle events, %",12.0,12.7,2.2,40.1
+"Coarse crackle events, %",0.7,1.2,0.2,1.4
+"Wheeze events, %",8.1,11.5,1.8,6.5
+"Rhonchi / stridor events, %",1.2 / 0.2,1.2 / 1.2,0.8 / 0.2,0.1 / 0.2
+"Patients with a recorded diagnosis, %",99,100,97,18
+"Pneumonia, % of those diagnosed",62,65,55,63
